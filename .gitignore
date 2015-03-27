@@ -1,0 +1,5 @@
+/.idea/
+
+*.log
+.DS_STORE
+build
