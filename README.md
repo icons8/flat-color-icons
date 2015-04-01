@@ -11,9 +11,7 @@
 * As a font.
 
 ##Good Boy License
-We’ve released the icon pack under the [Good Boy License](http://icons8.com/good-boy-license/). We invented it.
-
-Please do whatever your mom would approve:
+We’ve released the icon pack under the [Good Boy License](http://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
 * Download in any formats
 * Change
 * Fork.
