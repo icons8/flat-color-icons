@@ -18,7 +18,7 @@ A live [preview](http://icons8.github.io/flat-color-icons/) of the icon set is a
 We’ve released the icon pack under the [Good Boy License](http://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
 * Download
 * Change
-* Fork.
+* Fork
 
 No tattoos!
 
