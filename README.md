@@ -10,12 +10,12 @@ Now that we are alone, let us give you something: 312 free icons for personal an
 
 But hey, don't get spoiled too quickly. Next time, when we present you with a Tiffany ring, at least pretend you're impressed!
 
-[![Preview of Flat Icons from Icons8](http://cdnd.icons8.com/download/images/flat-color-icons.png)](http://icons8.github.io/flat-color-icons/)
+[![Preview of Flat Icons from Icons8](https://cdnd.icons8.com/download/images/flat-color-icons.png)](https://icons8.github.io/flat-color-icons/)
 
-There is available a live [preview](http://icons8.github.io/flat-color-icons/) of the icon set.
+There is available a live [preview](https://icons8.github.io/flat-color-icons/) of the icon set.
 
 ##Good Boy License
-We’ve released the icon pack under the [Good Boy License](http://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
+We’ve released the icon pack under the [Good Boy License](https://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
 * Download
 * Change
 * Fork
