@@ -22,6 +22,10 @@ We’ve released the icon pack under the [Good Boy License](https://icons8.com/g
 
 No tattoos!
 
+## More Color Icons
+
+These 312 icons are the part of a bigger pack available for a fee: https://icons8.com/color-icons (2100 icons as of July 2015).
+
 ## Author
 
 * Twitter: [@Icons_8](https://twitter.com/)
@@ -49,6 +53,5 @@ bower install flat-color-icons
 
 If you have any questions or ideas about icons, please feel free to contact us any way you'd prefer
 * create an [issue](https://github.com/icons8/flat-color-icons/issues) on github
-* ask on the [buzz.icons8.com](http://buzz.icons8.com)
 * tweet us [@Icons_8](https://twitter.com/)
 * drop a comment on [icons8.com](https://icons8.com/c).
