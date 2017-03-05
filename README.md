@@ -24,14 +24,15 @@ No tattoos!
 
 ## More Color Icons
 
-These 312 icons are the part of a bigger pack available for a fee: https://icons8.com/color-icons (2100 icons as of July 2015).
+These 317 icons are the part of a bigger pack available for a fee: https://icons8.com/color-icons (4500 icons as of February 2017).
 
 ## Author
 
-* Twitter: [@Icons_8](https://twitter.com/)
-* Facebook: [facebook.com/Icons8](https://www.facebook.com/Icons8)
-* Google+: [+Icons8](https://plus.google.com/+Icons8/posts)
-* Web: [icons8.com/color-icons](https://icons8.com/color-icons)
+* [Home Page](https://icons8.com/color-icons)
+* [Project Blog](https://icons8.com/blog)
+* [Twitter](https://twitter.com/)
+* [Facebook Page](https://www.facebook.com/Icons8)
+* [Dribbble](https://dribbble.com/icons8)
 
 ## Installing Icons8 flat color icons
 
