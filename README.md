@@ -30,7 +30,7 @@ These 317 icons are the part of a bigger pack available for a fee: https://icons
 
 * [Home Page](https://icons8.com/color-icons)
 * [Project Blog](https://icons8.com/blog)
-* [Twitter](https://twitter.com/)
+* [Twitter](https://twitter.com/icons_8)
 * [Facebook Page](https://www.facebook.com/Icons8)
 * [Dribbble](https://dribbble.com/icons8)
 
@@ -54,5 +54,5 @@ bower install flat-color-icons
 
 If you have any questions or ideas about icons, please feel free to contact us any way you'd prefer
 * create an [issue](https://github.com/icons8/flat-color-icons/issues) on github
-* tweet us [@Icons_8](https://twitter.com/)
+* tweet us [@Icons_8](https://twitter.com/icons_8)
 * drop a comment on [icons8.com](https://icons8.com/c).
