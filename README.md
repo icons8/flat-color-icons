@@ -48,7 +48,7 @@ npm install flat-color-icons
 bower install flat-color-icons
 ```
 
-## More from Icons8
+## Need more icons?
 
 This pack is a small free taste of the full library at [Icons8](https://icons8.com):
 
